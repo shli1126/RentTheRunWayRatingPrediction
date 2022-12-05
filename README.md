@@ -1,1 +1,1 @@
-# CSE158_Assignment2
+# CSE158 RentTheRunWayRatingPrediction
